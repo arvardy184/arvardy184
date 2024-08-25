@@ -33,13 +33,13 @@
  <a href="https://arvardy.dev" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arvan" />
  </a>
- <a href="https://linkedin.com/id/arvardy184" target="_blank">
+ <a href="https://linkedin.com/id/arvanardana" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arvan"/>
  </a>
  <a href="https://twitter.com/sstackunderflow" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/arvardy" target="_blank">
+ <a href="https://instagram.com/arvard.y" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="arvan" />
  </a> 
  <a href="https://facebook.com/arvan.ard" target="_blank">
