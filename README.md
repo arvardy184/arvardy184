@@ -33,7 +33,7 @@
  <a href="https://arvardy.dev" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arvan" />
  </a>
- <a href="https://linkedin.com/id/arvanardana" target="_blank">
+ <a href="https://linkedin.com/in/arvanardana" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arvan"/>
  </a>
  <a href="https://twitter.com/sstackunderflow" target="_blank">
